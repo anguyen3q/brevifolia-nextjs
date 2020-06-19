@@ -5,6 +5,8 @@ export default function Meta(props) {
         <>
             <Head>
             <script type="text/javascript" src="https://try.abtasty.com/efa7865db2b993fd11757b2b3690d7ab.js"></script>
+            <script src="https://www.googleoptimize.com/optimize.js?id=OPT-M7PSXLC"></script>
+            <script src="https://cdn.optimizely.com/js/18206491045.js"></script>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta charSet="utf-8" />
                 <title>{props.siteTitle}</title>
