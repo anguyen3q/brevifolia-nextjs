@@ -4,6 +4,7 @@ export default function Meta(props) {
     return (
         <>
             <Head>
+            <script src="https://cdn.optimizely.com/js/18206491045.js"></script>
             <script type="text/javascript" src="https://try.abtasty.com/efa7865db2b993fd11757b2b3690d7ab.js"></script>
 
             
