@@ -8,14 +8,7 @@ export default function Meta(props) {
             <script src="https://www.googleoptimize.com/optimize.js?id=OPT-M7PSXLC"></script>
             <script src="https://cdn.optimizely.com/js/18206491045.js"></script>
 
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170116942-1"></script>
-            <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-170116942-1');
-            </script>
+            
 
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta charSet="utf-8" />
